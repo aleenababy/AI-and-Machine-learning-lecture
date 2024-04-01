@@ -22,7 +22,7 @@ In this section, you will find trial projects that allow you to apply the concep
 
 To get started with the exercises and trial projects, simply clone or download this repository to your local machine. Each exercise/problem/project is organized into separate directories for easy navigation. You can choose the topics/projects that interest you the most and work through them at your own pace.
 ```
-git clone https://github.com/your-username/ai-ml-projects.git
+git clone https://github.com/aleenababy/AI-and-Machine-learning-lecture
 ```
 
 ## Feedback and Contributions
